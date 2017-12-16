@@ -1,4 +1,3 @@
-# AGNet
 # AGNet: Attention-Guided Network for Surgical Tool Presence Detection
 
 by Xiaowei Hu, Lequan Yu, Hao Chen, Jing Qin and Pheng-Ann Heng
