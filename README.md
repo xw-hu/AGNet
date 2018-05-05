@@ -1,4 +1,4 @@
-# AGNet: Attention-Guided Network for Surgical Tool Presence Detection
+# AGNet: Attention-guided Network for Surgical Tool Presence Detection
 
 by Xiaowei Hu, Lequan Yu, Hao Chen, Jing Qin and Pheng-Ann Heng
 
@@ -9,7 +9,7 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 ## Citation
 
 @incollection{hu2017agnet,   
-&nbsp;&nbsp;&nbsp;&nbsp;  title={AGNet: Attention-Guided Network for Surgical Tool Presence Detection},   
+&nbsp;&nbsp;&nbsp;&nbsp;  title={AGNet: Attention-guided Network for Surgical Tool Presence Detection},   
 &nbsp;&nbsp;&nbsp;&nbsp;  author={Hu, Xiaowei and Yu, Lequan and Chen, Hao and Qin, Jing and Heng, Pheng-Ann},   
 &nbsp;&nbsp;&nbsp;&nbsp;  booktitle={Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support},   
 &nbsp;&nbsp;&nbsp;&nbsp;  pages={186--194},   
