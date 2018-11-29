@@ -13,8 +13,7 @@ This implementation is written by Xiaowei Hu at the Chinese University of Hong K
 &nbsp;&nbsp;&nbsp;&nbsp;  author={Hu, Xiaowei and Yu, Lequan and Chen, Hao and Qin, Jing and Heng, Pheng-Ann},   
 &nbsp;&nbsp;&nbsp;&nbsp;  booktitle={Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support},   
 &nbsp;&nbsp;&nbsp;&nbsp;  pages={186--194},   
-&nbsp;&nbsp;&nbsp;&nbsp;  year={2017},   
-&nbsp;&nbsp;&nbsp;&nbsp;  publisher={Springer}   
+&nbsp;&nbsp;&nbsp;&nbsp;  year={2017}
 }
 
 ## Installation
